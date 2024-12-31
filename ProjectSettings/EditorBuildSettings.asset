@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Hampus_Assets/Scenes/Uppakra_scen1.unity
     guid: 9c37f039e007c9548906bd5e9778c062
+  - enabled: 1
+    path: Assets/Hampus_Assets/Scenes/Uppakra_scen2.unity
+    guid: 46d6ed31a60be7b43990b5afcad3c46f
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
