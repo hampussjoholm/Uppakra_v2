@@ -690,7 +690,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1011029014
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1814,7 +1814,7 @@ MonoBehaviour:
   m_SerializedLibrary: {fileID: 11400000, guid: fc71664c8d07f3846a4db8668de6b902,
     type: 2}
   m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 6689992741278781415, guid: 3549fdaf258e11846b85a316c16c699c,
+  m_TrackedImagePrefab: {fileID: 3995938076394838675, guid: a6f0edd3b7744be4eb1bf66ef4f05fa1,
     type: 3}
 --- !u!4 &2512387470860572925
 Transform:

@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/test_scen2.unity
     guid: dc24e4b10ec8bad4ebcd066d41681ff3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Hampus_Assets/Scenes/Uppakra_scen1.unity
     guid: 9c37f039e007c9548906bd5e9778c062
   - enabled: 1
