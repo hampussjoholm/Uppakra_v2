@@ -17,12 +17,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/test_scen2.unity
     guid: dc24e4b10ec8bad4ebcd066d41681ff3
-  - enabled: 0
+  - enabled: 1
     path: Assets/Hampus_Assets/Scenes/Uppakra_scen1.unity
     guid: 9c37f039e007c9548906bd5e9778c062
   - enabled: 1
     path: Assets/Hampus_Assets/Scenes/Uppakra_scen2.unity
     guid: 46d6ed31a60be7b43990b5afcad3c46f
+  - enabled: 1
+    path: Assets/Hampus_Assets/Scenes/Uppakra_scen3.unity
+    guid: 16f7f3a10e0d2c849915077253000fd7
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
