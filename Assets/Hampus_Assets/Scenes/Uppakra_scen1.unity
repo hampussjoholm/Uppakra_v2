@@ -5429,7 +5429,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "D\xE4r pratar vi med gudarna,. s\xE5som Odin, Tor och Freja - och offrar
+  m_text: "D\xE4r pratar vi med gudarna, s\xE5som Odin, Tor och Freja - och offrar
     till dem"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a0cb9b53610e1674fac0f62608b93372, type: 2}
